@@ -1,0 +1,13 @@
+
+{
+    "product" : "ZARA COAT 3",
+    "price" : "11500",
+    "productId": "6960eac0c941646b7a8b3e68",
+    "country" : "Poland",
+    "creditCard" : "123123123",
+    "orderPayload": {
+        "orders": [{ "country": "Poland", "productOrderedId": "6960eac0c941646b7a8b3e68" }]
+}
+}
+
+

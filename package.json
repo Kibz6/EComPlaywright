@@ -1,0 +1,21 @@
+{
+  "name": "ecomplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm update browserstack-node-sdk"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^25.9.2",
+    "browserstack-node-sdk": "^1.63.2"
+  },
+  "allowScripts": {
+    "browserstack-node-sdk@1.56.3": true
+  }
+}
