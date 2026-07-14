@@ -1,4 +1,4 @@
-# E-Commerce Test Automation Framework
+# E-Commerce Test Automation Framework 
 
 An end-to-end test automation framework built using **Playwright** and **TypeScript** for testing an e-commerce web application.
 
