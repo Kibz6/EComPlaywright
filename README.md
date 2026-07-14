@@ -189,7 +189,7 @@ The report contains:
 - Execution time
 - Screenshots (if captured)
 - Trace files (when enabled)
-
+![Playwright Report](Images/playwright-reports.png)
 ---
 
 ## Continuous Integration
@@ -204,6 +204,8 @@ Every push to the repository automatically:
 - Generates Playwright reports
 
 This ensures the framework is continuously validated after every code change.
+
+![GitHub Actions](Images/github-actions.png)
 
 ---
 
